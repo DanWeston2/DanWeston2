@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hello
 
-<!--
-**DanWeston2/DanWeston2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am studying Software Engineering at Southampton Solent University.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My skills include:
+- UML Systems Diagrams
+- Python
+- Kotlin
+- Javascript
+- HTML
+- CSS
+- Version Control

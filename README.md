@@ -1,12 +1,21 @@
-## Hello
+## Introduction
 
-I am studying Software Engineering at Southampton Solent University.
+I am in my third year at Southampton Solent University studying Software Engineering BSc, with a dissertation focus in Maritime safety.
 
-My skills include:
-- UML Systems Diagrams
+## Knowledge
+### Programming Languages
 - Python
-- Kotlin
 - Javascript
+- Kotlin
 - HTML
-- CSS
-- Version Control
+### Skills
+| <!-- --> | <!-- --> |
+|----------|----------|
+| React | Website API Development |
+| SQLite | MongoDB |
+| Streamlit | Data Science |
+| Machine Learning | Mobile Application Development |
+| CSS | JSON |
+| Differential Privacy | CICD |
+| DevOps | VCS |
+|||
